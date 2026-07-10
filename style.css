@@ -3,12 +3,12 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f5f5f5;
+    background-color: #444444;
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #1e1e1e;
+    color: #898989;
     text-align: center;
     padding: 20px;
 }
@@ -26,7 +26,7 @@ main {
 
 .tile {
     flex: 1 0 300px;
-    background-color: #fff;
+    background-color: #898989;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     padding: 20px;
     border-radius: 10px;
@@ -38,7 +38,7 @@ main {
 }
 
 footer {
-    background-color: #333;
+    background-color: #1e1e1e;
     color: #fff;
     text-align: center;
     padding: 10px;
