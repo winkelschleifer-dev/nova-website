@@ -35,3 +35,7 @@ Nova uses short English keywords:
 ## Status
 
 The Nova interpreter is a prototype written in Python. Basic source-file reading and variable-declaration parsing are under active development. Features such as expressions, interpolation, control flow, functions, lists, and OOP are planned.
+
+
+# Website link
+https://novalanguage.pages.dev
