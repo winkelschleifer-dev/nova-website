@@ -38,4 +38,4 @@ The Nova interpreter is a prototype written in Python. Basic source-file reading
 
 
 # Website link
-https://novalanguage.pages.dev
+https://nova-lang.pages.dev
